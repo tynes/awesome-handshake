@@ -14,7 +14,7 @@
 
 ## Devops
 
--[Handshake Helm Repository](https://github.com/k/handshake-helm)
+- [Handshake Helm Repository](https://github.com/k/handshake-helm)
 
 ## Papers
 
