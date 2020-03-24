@@ -19,24 +19,24 @@ Actually own your domain name.
 
 ### Code
 
-- [hsd](https://github.com/handshake-org/hsd)
-- [hs-client](https://github.com/handshake-org/hs-client)
-- [hnsd](https://github.com/handshake-org/hnsd)
-- [rsd](https://github.com/UrkelLabs/rsd)
-- [Bob Wallet](https://github.com/kyokan/bob-wallet)
+- [hsd](https://github.com/handshake-org/hsd) The JavaScript reference implementation
+- [hs-client](https://github.com/handshake-org/hs-client) The JavaScript CLI tools
+- [hnsd](https://github.com/handshake-org/hnsd) The C Light Client reference implementation
+- [rsd](https://github.com/UrkelLabs/rsd) The Rust implementation (WIP)
+- [Bob Wallet](https://github.com/kyokan/bob-wallet) An electron GUI for `hsd`
 
 ### Documentation
 
-- [hsd-dev.org](https://hsd-dev.org/)
+- [hsd-dev.org](https://hsd-dev.org/) Developer documentation
 
 ### Devops
 
--[Handshake Helm Repository](https://github.com/k/handshake-helm)
+-[Handshake Helm Repository](https://github.com/k/handshake-helm) Helm Charts for Kubernetes deployments
 
 ### Papers
 
-- [Whitepaper](https://handshake.org/files/handshake.txt)
-- [An airdrop that preserves recipient privacy](https://fc20.ifca.ai/preproceedings/54.pdf)
+- [Whitepaper](https://handshake.org/files/handshake.txt) The whitepaper
+- [An airdrop that preserves recipient privacy](https://fc20.ifca.ai/preproceedings/54.pdf) Academic paper outlining the GooSig Signature scheme, used for the airdrop
 
 ### Videos
 
