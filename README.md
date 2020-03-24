@@ -75,3 +75,5 @@ Actually own your domain name.
 
 - [CoinGecko](https://www.coingecko.com/en/coins/handshake)
 - [CoinMarketCap](https://coinmarketcap.com/currencies/handshake/)
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
