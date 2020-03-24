@@ -26,7 +26,6 @@ Actually own your domain name.
 - [Bob Wallet](https://github.com/kyokan/bob-wallet) An electron GUI for `hsd`
 
 ### Documentation
-
 - [hsd-dev.org](https://hsd-dev.org/) Developer documentation
 
 ### Devops
